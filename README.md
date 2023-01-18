@@ -1,16 +1,7 @@
 # location_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/118456066/213150604-4014516c-8209-4202-ac54-10c8d9bea3b2.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/213150939-b792ff76-0efa-46ae-baf2-e40cd4db144c.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/213150976-a1ea27f4-bdfe-496f-b0b8-f84c3c7fb230.jpg" width="200px">          <img src="https://user-images.githubusercontent.com/118456066/213150998-dbd6c024-2813-4c1b-b187-82a6b43901ad.jpg" width="200px">
